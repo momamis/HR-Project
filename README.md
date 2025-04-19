@@ -16,7 +16,7 @@ HR Data Analysis, Visualization, and Turnover Prediction
       - [Preprocessing](#preprocessing)
       - [Model Building](#model-building)
       - [Feature Importance](#feature-importance)
-  - [Key Insights](#key-insights)
+- [Key Insights](#key-insights)
 
 ## Project Overview
 This project aims at breaking down the demographics of a company's HR by various parameters like gender, race, age, location, turnover rate, etc. Research has shown that a diverse workforce can lead to improved efficiency and productivity. Understanding the distribution of these paramters could contribute to optimizing the company's talent pool for better business outcomes. The project concludes with a prediction of turnover rates using Random Forest Classification, achieving a solid accuracy score. Tenure and age seem to be strong indicators of whether an employee might leave. Retention strategies should focus on newer and younger employees. Demographic indicators like gender and race being important could signal possible HR or cultural issues that require attention. These insights can help organizations prioritize retention efforts, especially for those at a high risk of leaving.
